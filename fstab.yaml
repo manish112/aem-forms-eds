@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url:  https://bdf8-103-43-112-97.ngrok-free.app/bin/franklin.delivery/manish112/aem-forms-eds/main
+    url:  https://author-p71852-e1137339.adobeaemcloud.com/bin/franklin.delivery/manish112/aem-forms-eds/main
     type: "markup"
     suffix: ".html"
