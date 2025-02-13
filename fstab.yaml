@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url:  https://bdf8-103-43-112-97.ngrok-free.app/bin/franklin.delivery/jalagari/demo/main
+    url:  https://bdf8-103-43-112-97.ngrok-free.app/bin/franklin.delivery/manish112/aem-forms-eds/main
     type: "markup"
     suffix: ".html"
